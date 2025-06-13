@@ -1,10 +1,103 @@
 [
   {
-    "name": "User Service",
-    "url": "https://jsonplaceholder.typicode.com/users"
+    "name": "Invalid Fake API",
+    "url": "https://invalid-api.bajajallianz.com/test-down"
   },
   {
-    "name": "Posts Service",
-    "url": "https://jsonplaceholder.typicode.com/posts"
+    "name": "getAccessToken",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/getAccessToken"
+  },
+  {
+    "name": "refreshToken",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/refreshToken"
+  },
+  {
+    "name": "allMasterData Encrypted",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/allMasterData"
+  },
+  {
+    "name": "getCityMasterData",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/getCityMasterData"
+  },
+  {
+    "name": "allVehicleMasterData",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/allVehicleMasterData"
+  },
+  {
+    "name": "getAllPinCodeData",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/getAllPinCodeData"
+  },
+  {
+    "name": "generateRefId",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/generateRefId"
+  },
+  {
+    "name": "generateRefId Encrypted",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/generateRefId"
+  },
+  {
+    "name": "crmPushData",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/crmPushData"
+  },
+  {
+    "name": "ValidateSourceId",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/ValidateSourceId"
+  },
+  {
+    "name": "generateMotPin",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/generateMotPin"
+  },
+  {
+    "name": "whatsappConsentOptIn Async",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/whatsappConsentOptIn"
+  },
+  {
+    "name": "getVehicleDtlsForVerification_Opus",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/getVehicleDtlsForVerification"
+  },
+  {
+    "name": "getVehicleDtlsForVerification_Maximus",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/getVehicleDtlsForVerification"
+  },
+  {
+    "name": "getMotorData",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/getMotorData"
+  },
+  {
+    "name": "visitiinfo",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/visitinfo"
+  },
+  {
+    "name": "/pep Maximus RefNo",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/pep"
+  },
+  {
+    "name": "/pep Opus RefNo",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/pep"
+  },
+  {
+    "name": "issuePolicy Opus",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/issuePolicy"
+  },
+  {
+    "name": "issuePolicy Maximus",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/issuePolicy"
+  },
+  {
+    "name": "downloadPolicy Maximus",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/downloadPolicy"
+  },
+  {
+    "name": "downloadPolicy Opus",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/downloadPolicy"
+  },
+  {
+    "name": "/getCibilHits",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/getCibilHits"
+  },
+  {
+    "name": "/getCibilData",
+    "url": "https://api.bagicuat.bajajallianz.com/BagicWCMCommon/BagicWCMCommon/Common/Api/getCibilData"
   }
+
 ]
